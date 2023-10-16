@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1693160432 source:c:\users\rocio\onedrive\escritorio\guía memoria dinámica y estática\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"strings.h"
+	"time.h"
+
